@@ -29,4 +29,4 @@ PYSPARK_DRIVER_PYTHON_OPTS="jupyter-notebook --debug --no-browser --port=$PORT1"
 
 ### DESC members: working at NERSC
 
-Source your DESC environement. Then go to the Jupyter Lab web [interface](https://jupyter-dev.nersc.gov/), and execute the notebook with the desc-pyspark kernel.
+Source your DESC environment. Then go to the Jupyter Lab web [interface](https://jupyter-dev.nersc.gov/), and execute the notebook with the desc-pyspark kernel.
