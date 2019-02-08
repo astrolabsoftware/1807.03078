@@ -1,4 +1,4 @@
-# Analysing billion-objects catalogue interactively: Apach Spark for physicists
+# Analysing billion-objects catalogue interactively: Apache Spark for physicists
 
 This repository contains supplementary material for arXiv:[1807.03078](https://arxiv.org/abs/1807.03078).
 
