@@ -5,6 +5,7 @@ This repository contains supplementary material for arXiv:[1807.03078](https://a
 ## How to run the notebook
 
 You must have [Apache Spark](http://spark.apache.org/) and [Jupyter notebook](https://jupyter.org/) installed on your machine or your cluster. 
+Other Python dependencies are described in the notebook.
 
 ### On a local machine
 
